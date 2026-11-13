@@ -1,7 +1,0 @@
-print("-----Welcome to Sushi Calculator-----")
-red = int(input("how many red plates are there?")) #3
-green = int(input("how many green plates are there?")) #4
-blue = int(input("how many blue plates are there?")) #5
-
-total = red * 3 + green * 4 + blue * 5
-print("The total cost of your sushi is: $" + str(total))
